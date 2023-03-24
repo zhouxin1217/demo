@@ -7,3 +7,4 @@ package-lock.json
 server/package-lock.json
 public/
 .idea
+src/App.css
