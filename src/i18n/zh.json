@@ -1,0 +1,14 @@
+{
+    "register":"注册",
+    "signin":"登陆",
+    "home": "首页",
+    "logout":"退出",
+    "title": "标题",
+    "FoodSafety":"食品安全",
+    "search":"搜索",
+    "ShoppingMall":"购物商城",
+    "LatestProducts":"最新商品",
+    "ShoppingCart":"购物车",
+    "GoHome":"首页",
+    "order":"订单"
+}

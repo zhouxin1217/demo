@@ -1,0 +1,14 @@
+{
+    "register":"Register",
+    "signin":"Sign In",
+    "home": "Home",
+    "logout":"Logout",
+    "title": "Title",
+    "FoodSafety":"Food Safety",
+    "search":"search",
+   "ShoppingMall":"Shopping Mall",
+   "LatestProducts":"Latest products",
+   "ShoppingCart":"Shopping Cart",
+   "GoHome":"Go Home",
+   "order":"Order"
+}

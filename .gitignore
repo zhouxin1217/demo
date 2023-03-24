@@ -1,0 +1,9 @@
+/server/node_modules
+/server/.env
+.DS_Store
+/node_modules
+package-lock.json
+/public
+server/package-lock.json
+public/
+.idea
